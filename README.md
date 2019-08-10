@@ -1,5 +1,5 @@
 # AlgorithmsPartIPrincetonUniversity
-These are some of the assignments from Princeton's Algorithms course. 
+These are assignments from Princeton's Algorithms course. 
 
 ## Percolation ## 
 
